@@ -1,0 +1,9 @@
+D:\EduManager\TESTAPP\bin\Debug\TESTAPP.exe.config
+D:\EduManager\TESTAPP\bin\Debug\TESTAPP.exe
+D:\EduManager\TESTAPP\bin\Debug\TESTAPP.pdb
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.csproj.AssemblyReference.cache
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.Properties.Resources.resources
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.csproj.GenerateResource.cache
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.csproj.CoreCompileInputs.cache
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.exe
+D:\EduManager\TESTAPP\obj\Debug\TESTAPP.pdb
